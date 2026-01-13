@@ -2,7 +2,9 @@
 using namespace std;
 
 int main(){
+	//ATM Program
 	int choice;
+	//Previous amount in User's Account 
 	int balance = 4000;
 	int amount;
 	cout<<"Select your desired menu : "<<endl;

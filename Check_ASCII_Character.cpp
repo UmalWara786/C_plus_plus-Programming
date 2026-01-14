@@ -1,7 +1,6 @@
 //This program checks the Alphabetical character whether it's a Upper Or Lower case
 
 #include<iostream>
-#include<conio.h>
 using namespace std;
 int main(){
 char lett;
